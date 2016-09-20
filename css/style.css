@@ -54,7 +54,13 @@ header{
 	
 	}
 
-
+p{
+	font-family: 'Oswald', sans-serif;
+	margin-top: 10px;
+	font-size:14px;
+	text-align:relative;
+	color: #505961
+}
 	
 		
 	nav{
