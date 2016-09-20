@@ -59,7 +59,7 @@ p{
 	margin-top: 10px;
 	font-size:16px;
 	text-align:justify;
-	color: #505961
+	color: white;
 }
 	
 		
@@ -88,6 +88,15 @@ border-radius: 20px;
 box-shadow: 0 0 10 px #F2B80D inset;
 
 	}
+	
+figure{
+	width:1000px;
+	height: auto;
+	margin: auto;
+	position:center;	
+
+	
+}	
 	
 	/*CLASES*/ 
 	
