@@ -24,12 +24,19 @@ body{
 	background-size:cover;
 	
 }
-h1{
+.titulo1{
 	font-family: 'Libre Franklin', sans-serif;
 	margin-top: 10px;
 	font-size:30px;
 	text-align:center;
-	color: #505961
+	color: #006680
+}
+.titulo2{
+	font-family: 'Libre Franklin', sans-serif;
+	margin-top: 10px;
+	font-size:30px;
+	text-align:center;
+	color: #FF5900
 }
 h2{
 	font-family: 'Oswald', sans-serif;
