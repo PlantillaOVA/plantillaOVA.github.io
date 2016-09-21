@@ -13,7 +13,7 @@ font-family: 'Oswald', sans-serif;
 	width:1000px;
 	height: auto;
 	margin: auto;
-	position:relative;
+	position:left-side;
 	
 }
 
@@ -125,7 +125,7 @@ float: right;
 	}
 	
 footer{
-	position: center;
+	position: relative;
 	width:1200px;
     margin: auto;
     height: 100px;
