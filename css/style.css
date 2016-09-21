@@ -125,7 +125,8 @@ float: right;
 	}
 	
 footer{
-	position: absolute;
+	position: center;
+	width:1000px;
     margin: auto;
     height: 100px;
     background-color: #006680;
