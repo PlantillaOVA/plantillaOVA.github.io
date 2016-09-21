@@ -10,7 +10,7 @@ font-family: 'Oswald', sans-serif;
 }
 
 #contenidos{
-	width:1000px;
+	width:100%;
 	height: auto;
 	margin: auto;
 	position:left-side;
@@ -57,7 +57,7 @@ h3{
 }
 header{
 	color: white;
-	width:125%;
+	width:100%;
 	height:175px;
 	background: white;
 	
@@ -74,7 +74,7 @@ p{
 		
 	nav{
 	
-	width:125%;
+	width:100%;
 	height:40px;
 	background: white;
 	padding: 7px;
@@ -128,7 +128,7 @@ float: right;
 	
 footer{
 	position: relative;
-	width:125%;
+	width:100%;
     margin: auto;
     height: 100px;
     background-image: url(../img/fondo1unad.jpg);
