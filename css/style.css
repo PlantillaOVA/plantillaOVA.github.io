@@ -124,5 +124,10 @@ float: right;
 	box-shadow:0 -84px 0 #F2B80D inset;
 	}
 	
-}	
-
+footer{
+    margin: auto;
+    height: 330px;
+    background-color: #1e2127;
+    color: #ffffff;
+    text-align:center; 
+}​
