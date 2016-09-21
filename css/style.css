@@ -57,7 +57,7 @@ h3{
 }
 header{
 	color: white;
-	width:1000px;
+	width:100%;
 	height:175px;
 	background: white;
 	
@@ -128,7 +128,7 @@ float: right;
 	
 footer{
 	position: relative;
-	width:1200px;
+	width:100%;
     margin: auto;
     height: 100px;
     background-image: url(../img/fondo1unad.jpg);
